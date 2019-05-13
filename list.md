@@ -12,7 +12,6 @@
 
 # Result List
 ## **디렉터리 파일 리스트 출력**
-<br>
 ![main](https://user-images.githubusercontent.com/32647144/57607313-bba95080-75a5-11e9-87fe-e5ac6543c83e.jpg)
 <br>
 <br>
