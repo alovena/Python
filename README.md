@@ -4,7 +4,7 @@
 
 # Python Project 리스트
 
-* 디렉터리내 파일(.txt) 출력
+* 디렉터리내 파일(.txt) 출력 https://github.com/alovena/Python/blob/master/Project1/%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb
 * python proj2
 * python proj3
 * python proj4
